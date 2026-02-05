@@ -1,12 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Theodore Day]
+## [Assignment 01]
+## [Submission date: 02/04/26]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* Lecture/Slides
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* None Known bugs
+
